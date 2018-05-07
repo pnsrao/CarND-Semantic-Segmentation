@@ -18,6 +18,7 @@ After experimenting with various values, training is done with a batch size of 5
 
 ## Loss progression
 For the above setting, the loss progression was as follows
+<pre>
   EPOCH:  0  avg_loss =  6.99471358904
   EPOCH:  1  avg_loss =  0.624376026721
   EPOCH:  2  avg_loss =  0.564036843078
@@ -29,6 +30,7 @@ For the above setting, the loss progression was as follows
   EPOCH:  29  avg_loss =  0.0752757519227
   EPOCH:  39  avg_loss =  0.0504242753417
   EPOCH:  49  avg_loss =  0.0371962225643
+ </pre>
   
 ## Results
 The results are in the runs/1525663704.9633374 directory checked into github
